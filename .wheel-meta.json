@@ -1,0 +1,22 @@
+{
+  "wheel_id": 529,
+  "structure": "umbrella",
+  "slug": "retainingwallperth-108",
+  "project": "retaining-wall-builders-perth-beginner-guide-bc3ebb1aff0a10fc05",
+  "parent_t1_ref": "retainingwallperth-153",
+  "node_role": "feeder",
+  "money_target": "retainingwallperth.au",
+  "primary_kw": "retaining wall builders perth beginner guide",
+  "intended_url": "https://sitesau.github.io/retainingwallperth-108/",
+  "tier": "T2",
+  "writeback_nonce": "42441f54d913cde9",
+  "links": [
+    {
+      "target_url": "https://aumedia.neocities.org/retaining-wall-builders-perth-pros-and-cons-12d932d528542050b8f/",
+      "anchor": "more on retaining wall builders perth pros and cons",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
